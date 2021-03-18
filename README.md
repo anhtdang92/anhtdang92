@@ -6,7 +6,8 @@
       • AI
       • Robotics
       • Quantum Computing
-      • VR/AR/MR, PC Gaming
+      • VR/AR/MR
+      • PC Gaming
       • Computer Graphics
       • Blockchain
       
