@@ -13,6 +13,6 @@
       
 - 🌱 I’m currently learning Computer Science in grad school.
 
-- 💞️ I’m looking to collaborate on optimizing computer hardware to run the most demanding video games.
+- 💞️ I’m looking to collaborate on optimizing computer hardware to run the most demanding video games (overclocking).
 
 - 📫 How to reach me: anhtdang92@gmail.com
