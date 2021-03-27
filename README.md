@@ -11,7 +11,7 @@
       • Computer Graphics
       • Blockchain
       
-- 🌱 I’m currently learning Computer Science in grad school.
+- 🌱 I’m currently applying for Computer Science/Data Science grad school.
 
 - 💞️ I’m looking to collaborate on optimizing computer hardware to run the most demanding video games (overclocking).
 
