@@ -11,8 +11,5 @@
       • Computer Graphics
       • Blockchain
       
-- 🌱 I’m currently applying for Computer Science/Data Science grad school.
-
-- 💞️ I’m looking to collaborate on optimizing computer hardware to run the most demanding video games (overclocking).
-
+- 🌱 I’m currently attending MSCS grad school for ML.
 - 📫 How to reach me: anhtdang92@gmail.com
