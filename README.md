@@ -1,46 +1,44 @@
 # Anh Dang
 
-**Data Analyst II** · First Community Credit Union ($2.9B) · Houston, TX  
-**M.S. Computer Science** · Georgia Tech OMSCS — Machine Learning Track (in progress)  
-**1LT Signal Officer** · U.S. Army Reserve · Secret Clearance
+**Data Analyst II** · First Community Credit Union ($2.9B) · Houston, TX
+**M.S. Computer Science, Machine Learning** · Georgia Tech OMSCS · Expected Summer 2027
+**1LT, Signal Officer** · U.S. Army Reserve · Secret Clearance · [CompTIA Security+](https://www.credly.com/badges/679bc8e4-d10e-4878-aa12-62e633c9736d/public_url)
 
 ---
 
-I build data pipelines, analytics tools, and ML applications. By day I write T-SQL against enterprise data warehouses and build Power BI dashboards for a $2.9B credit union. By night I'm working through Georgia Tech's ML specialization and shipping side projects on my RTX 4090.
+I build data pipelines, analytics tools, and ML applications. By day I'm the sole data analyst on a digital banking Scrum team, writing T-SQL against an enterprise data warehouse and building Power BI reporting for member-facing products. By night I'm working through Georgia Tech's ML specialization and shipping side projects on an RTX 4090.
 
-**What I work with:**  
-`SQL` `Python` `Power BI` `Tableau` `Azure ML` `Pandas` `scikit-learn` `Git` `Databricks` `Azure DevOps`
+**What I work with:**
+`SQL (T-SQL)` `Python` `Pandas` `NumPy` `Power BI` `Tableau` `SQL Server` `Azure DevOps` `Git` `Jupyter`
 
-**What I'm learning:**  
-`PyTorch` `TensorFlow` `MLOps` `Cloud ML (AWS/Azure)` `Graduate Algorithms`
+**Currently:**
+CS 7641 Machine Learning · CS 6750 Human-Computer Interaction · next up: CS 6515 Graduate Algorithms
 
 ---
 
-### Pinned Projects
+### Featured Projects
 
-**[kraken-ml-trading-strategy](https://github.com/anhtdang92/kraken-ml-trading-strategy)** — ML-powered crypto trading using Kraken API + Google Cloud. Python, scikit-learn, cloud deployment.
+**[argus](https://github.com/anhtdang92/argus)** · Cyber threat detection platform. GNN-based lateral movement detection, hybrid anomaly detection (LSTM autoencoder + Isolation Forest + XGBoost), NLP threat intelligence, Neo4j. PyTorch.
 
-**[curstar-video-upscaler](https://github.com/anhtdang92/curstar-video-upscaler)** — AI video upscaler built on STAR diffusion model. Python, deep learning, computer vision.
+**[atlas-ml-trading](https://github.com/anhtdang92/atlas-ml-trading)** · Stock trading dashboard with LSTM networks, 34 technical indicators, a 7-architecture ablation study, and walk-forward backtesting. FastAPI serving.
 
-**[deepseek-local-inference](https://github.com/anhtdang92/deepseek-local-inference)** — Running DeepSeek-R1-Distill-Qwen-32B locally on RTX 4090. Python, quantized models, local LLM inference.
+**[signal-network-mapper](https://github.com/anhtdang92/signal-network-mapper)** · Interactive web app for mapping military signal support networks. JavaScript, geospatial visualization.
 
-**[ml-trading-algorithm](https://github.com/anhtdang92/ml-trading-algorithm)** — ML trading algorithm with feature engineering, backtesting, and signal generation. Python, scikit-learn.
+**[deepseek-local-inference](https://github.com/anhtdang92/deepseek-local-inference)** · Local LLM inference and benchmarking with DeepSeek-R1-Distill-Qwen-32B, quantized, on a single RTX 4090.
 
-**[agentic-health-navigator](https://github.com/anhtdang92/agentic-health-navigator)** — AI-powered iOS app monitoring HealthKit data with real-time health insights. Swift, on-device ML.
+**[agentic-health-navigator](https://github.com/anhtdang92/agentic-health-navigator)** · iOS app that monitors HealthKit data and delivers real-time health insights. Swift, on-device ML.
 
-**[signal-network-mapper](https://github.com/anhtdang92/signal-network-mapper)** — Interactive web app for mapping military signal support networks. JavaScript, geospatial visualization.
-
-**[anhtdang92.github.io](https://github.com/anhtdang92/anhtdang92.github.io)** — Personal portfolio website. HTML, CSS, JavaScript.
+**[curstar-video-upscaler](https://github.com/anhtdang92/curstar-video-upscaler)** · AI video upscaler built on the STAR diffusion model. Computer vision.
 
 ---
 
 ### Background
 
-- 5 years of data analytics in financial services (SQL, Python, Power BI)
-- 5 years as a U.S. Army Reserve Signal Officer — led 60+ soldiers, managed secure communications
+- 5 years of data analytics in financial services at FCCU, from intern (2021) to Data Analyst II
+- Built an automated daily risk-data pipeline to Visa DPS and supported an ML credit decisioning platform processing 3M+ decisions a month
+- 5 years as a U.S. Army Reserve Signal Officer; currently S6 OIC, responsible for unit communications, COMSEC, and network operations
 - B.S. Computer Science · University of Houston-Downtown
-- M.S. Computer Science (ML) · Georgia Tech · Expected 2027
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/anh-dang92) · [GitHub](https://github.com/anhtdang92) · Houston, TX
+[LinkedIn](https://linkedin.com/in/anh-dang92) · [Portfolio](https://anhtdang92.github.io) · Houston, TX
